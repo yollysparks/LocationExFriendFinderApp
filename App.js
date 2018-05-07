@@ -1,6 +1,5 @@
 import React from 'react';
 import {Text, View, Platform, TouchableOpacity, StyleSheet, Button, WebView } from 'react-native';
-import {Platform, Text, View, StyleSheet} from 'react-native';
 import {Constants, WebBrowser, Location, Permissions, MapView} from 'expo';
 import {Marker} from 'react-native-maps';
 
